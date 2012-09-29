@@ -18,6 +18,5 @@ group :deploy do
 end
 
 group :development do
-  gem 'capistrano'
   gem 'vendorer'
 end
