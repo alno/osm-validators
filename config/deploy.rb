@@ -1,5 +1,6 @@
 set :application, "personal"
-set :repository,  "git://github.com/alno/site-personal-osm.git"
+set :repository,  "git://github.com/alno/osm-validators.git"
+set :branch, 'cap'
 
 set :user, "personal"
 set :use_sudo, false
